@@ -50,6 +50,15 @@
       padding-top: 0rem;
     }
 
+    .mb-5.second{
+      margin-bottom: 2rem!important;
+    }
+    .mb-5.center {
+      /* font-style: italic; */
+      text-align: center;
+    }
+
+
     .italic {
       font-style: italic
     }
@@ -145,7 +154,7 @@
     }
 
     .footer{
-      padding:5rem
+      padding:2rem
     }
 
     /* Small devices (tablets, 768px and up) */
